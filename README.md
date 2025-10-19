@@ -14,5 +14,3 @@ Which means I might assemble a vertual humanbeings.
 that will be a tough work.
 Wish me luck.
 =================================================================================================================================
-0.0.0.0.1
-frame settings
